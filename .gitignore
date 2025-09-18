@@ -5,6 +5,7 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+coverage/
 
 # === Maven / Spring Boot ===
 target/
@@ -39,5 +40,3 @@ Thumbs.db
 .npm/
 .yarn/cache/
 .pnp.*
-
-git log --oneline --graph --decorate --all
